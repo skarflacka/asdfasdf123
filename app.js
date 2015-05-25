@@ -3,5 +3,5 @@ $(document).ready(function() {
 	var template = Handlebars.compile(source);
 	var context = {title: "Lorem Ipsum"};
 	var output = template(context);
-	$("#output").html(output);
+	$("#header").html(output);
 });
