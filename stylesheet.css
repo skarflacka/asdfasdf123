@@ -1,0 +1,32 @@
+html,
+body,
+ul,
+ol {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font: 100% "Open Sans", sans-serif;
+  color: #000;
+  font-family: 'Open Sans', sans-serif; }
+
+h1 {
+  font-size: 3em;
+  font-weight: 700;
+  text-align: center;
+  padding: 150px 0 150px 0; }
+
+a {
+  color: #000; }
+
+#button-content {
+  border-style: solid;
+  border-width: 5px;
+  border-color: #000;
+  padding: 10px 60px;
+  text-decoration: none !important;
+  transition: all 0.4s ease; }
+  #button-content:hover {
+    border-color: #fff; }
+
+/*# sourceMappingURL=stylesheet.css.map */
